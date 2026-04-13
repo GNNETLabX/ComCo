@@ -12,3 +12,15 @@ We are grateful to the authors of [DyGFormer](https://github.com/yule-BUAA/DyGLi
 [pandas](https://github.com/pandas-dev/pandas),
 [tqdm](https://github.com/tqdm/tqdm), and 
 [tabulate](https://github.com/astanin/python-tabulate)
+
+### Cite us
+```bibtex
+@article{li2025fusion3m,
+  title={Fusion3M: Community-based multi-scale co-evolving network for dynamic graph representation learning},
+  author={Li, Chao and Song, Qianyu and Liu, Runshuo and Zhao, Zhongying and Zeng, Qingtian},
+  journal={Information Fusion},
+  volume={123},
+  pages={103308},
+  year={2025},
+  publisher={Elsevier}
+}
